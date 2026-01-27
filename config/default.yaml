@@ -1,0 +1,6 @@
+seed: 42
+dt_minutes: 5
+horizon_hours: 24
+g0_mgdl: 110
+gmin_mgdl: 40
+gmax_mgdl: 400

@@ -1,0 +1,11 @@
+n_pop: 40
+n_gen: 60
+pc: 0.8
+pm: 0.2
+elitism: 2
+tournament_k: 3
+
+dose_basal_min: 0.2
+dose_basal_max: 0.5
+insulin_duration_min: 2.0
+insulin_duration_max: 6.0
